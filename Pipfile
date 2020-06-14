@@ -10,6 +10,7 @@ jupyter = "*"
 numpy = "*"
 pandas = "*"
 matplotlib = "*"
+pandas-datareader = "*"
 
 [requires]
 python_version = "3.8"
