@@ -11,6 +11,9 @@ numpy = "*"
 pandas = "*"
 matplotlib = "*"
 pandas-datareader = "*"
+lxml = "*"
+xlrd = "*"
+openpyxl = "*"
 
 [requires]
 python_version = "3.8"
